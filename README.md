@@ -1,4 +1,4 @@
-# Finastra AI Chatbot 🤖
+# Finastra AI Finance Chatbot 🤖
 
 An AI-powered financial assistant that helps users manage investments and provides personalized financial advice. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Google's Gemini AI and Alpha Vantage API integration.
 
@@ -154,10 +154,13 @@ Common issues and solutions:
    - Try deleting node_modules and package-lock.json
    - Run `npm install` again
 
-## License 📄![finastra1](https://github.com/user-attachments/assets/8242aeb1-531e-4334-9225-249009ef9fbd)
+## License 📄
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Screenshots of Working Chatbot:
+![finastra1](https://github.com/user-attachments/assets/ae8ad3cd-6c5c-45e1-9f43-9b87524eedeb)
+![finastra2](https://github.com/user-attachments/assets/5eac7116-a54a-4ae0-9226-9204214511b9)
+![finastra3](https://github.com/user-attachments/assets/4e51d7c1-ee30-49dd-985b-ab8374e74946)
 
