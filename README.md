@@ -33,7 +33,7 @@ Before running this project, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Satyesh7/AI-Chatbot.git
    cd finastra-chatbot
    ```
 
