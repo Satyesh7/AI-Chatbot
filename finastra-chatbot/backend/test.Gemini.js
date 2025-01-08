@@ -3,7 +3,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 
 async function testGemini() {
     try {
-        const genAI = new GoogleGenerativeAI('AIzaSyD1e-CXcj7j92jqBoDjnVeFY6nvAM2tAIE');
+        const genAI = new GoogleGenerativeAI('GEMINI_API_KEY');
         const model = genAI.getGenerativeModel({ model: "gemini-pro" });
 
         const prompt = "Give me a quick summary of the stock market.";
