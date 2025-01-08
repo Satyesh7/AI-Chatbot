@@ -156,10 +156,9 @@ Common issues and solutions:
 
 ## License 📄
 
-
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Screenshots of Working Chatbot:
+## Screenshots of Working Chatbot:
 ![finastra1](https://github.com/user-attachments/assets/ae8ad3cd-6c5c-45e1-9f43-9b87524eedeb)
 ![finastra2](https://github.com/user-attachments/assets/5eac7116-a54a-4ae0-9226-9204214511b9)
 ![finastra3](https://github.com/user-attachments/assets/4e51d7c1-ee30-49dd-985b-ab8374e74946)
